@@ -20,7 +20,7 @@ The smallest possible turbine size is 5 × 4 × 5, assuming a vertical shaft. Wi
 **Rotor Shafts** form the shaft of your turbine that spans end to end and connects to the rotor bearings.
 
 ![Turbine Rotor Blade](/biggerreactors/turbine/turbine_rotor_blade.png)
-**Rotor Blades** make the rotor spin by converting the thermal energy of the steam into rotational kinetic energy of the shaft. They are placed onto shaft components and can be multiple blocks in length. They can also be placed asymetrically.
+**Rotor Blades** make the rotor spin by converting the thermal energy of the steam into rotational kinetic energy of the shaft. They are placed onto shaft components and can be multiple blocks in length. They can also be placed asymmetrically.
 
 ## Optional Components
 
