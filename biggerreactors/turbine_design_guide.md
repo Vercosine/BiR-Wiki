@@ -2,7 +2,7 @@
 
 I recommend doing this in a creative world, so you can easily test out your setup. (You can use the Fluid White Hole added by Phosphophyllite for an endless steam source.)
 
-Make sure to read the general [Turbines]() page so you can get an idea on how the turbines work, as I will focus only on the most important in the following.
+Make sure to read the general [Turbines](/biggerreactors/turbine.md) page so you can get an idea on how the turbines work, as I will focus only on the most important in the following.
 
 ## Estimating the rough size
 My numbers may not be too right in place, but that's because this is estimation, so do try different turbine sizes than the ones suggested here.
