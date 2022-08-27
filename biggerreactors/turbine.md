@@ -97,6 +97,3 @@ The number of blades determines the steam intake of the turbine and how much ste
 ## Operation and control
 
 A turbine spinning at 1800 RPM produces roughly twice the power of a turbine spinning at 900 RPM.
-
-
-
